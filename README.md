@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### I'm Apurv Singh Gautam
+## I'm Apurv Singh Gautam
+
+### :man: A little about me ...
 
 - Working on Threat Intelligence/Hunting
 - Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
@@ -8,5 +10,16 @@
 - Delivered several talks and seminars at security meetups, schools, colleges, and conferences
 - Actively contributing to the cybersecurity community
 
+### :books: I’m currently learning ...
+- NLP
+- SIEM
+- Network Threat Hunting
+- OSINT
+
+### :speech_balloon: Ask me about ...
+- Spider
+- Darnet/Darkweb
+- HUMINT
+- OSINT
 
 For more in detail information visit my [Portfolio](https://apurvsinghgautam.me/)
