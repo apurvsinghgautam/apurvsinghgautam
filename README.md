@@ -17,8 +17,8 @@
 - OSINT
 
 ### :speech_balloon: Ask me about ...
-- Spider
-- Darnet/Darkweb
+- Spiders/Scraping
+- Darknet/Darkweb
 - HUMINT
 - OSINT
 
