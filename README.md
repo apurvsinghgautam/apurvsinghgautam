@@ -19,6 +19,8 @@
 ### :speech_balloon: Ask me about ...
 - Spiders/Scraping
 - Darknet/Darkweb
+- Threat Intel
+- Elastic Stack
 - HUMINT
 - OSINT
 
