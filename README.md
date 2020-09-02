@@ -27,4 +27,6 @@
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&hide=issues)
 
+[![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam)](https://github.com/anuraghazra/github-readme-stats)
+
 ## For more in detail information visit my [Portfolio](https://apurvsinghgautam.me/)
