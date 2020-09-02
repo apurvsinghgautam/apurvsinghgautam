@@ -25,6 +25,6 @@
 - HUMINT
 - OSINT
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true)
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&hide=issues)
 
 ## For more in detail information visit my [Portfolio](https://apurvsinghgautam.me/)
