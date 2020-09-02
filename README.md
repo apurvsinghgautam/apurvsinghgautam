@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-## I'm Apurv Singh Gautam
+# I'm Apurv Singh Gautam
 
-### :man: A little about me ...
+## :man: A little about me ...
 
-- Working on Threat Intelligence/Hunting
+- Working on Threat Intelligence/Hunting on darknet
 - Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
+- Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
 - Volunteering as a Senior Teaching Assistant at [Cybrary](https://www.cybrary.it/) and as a Teaching Assistant at [StationX](https://www.stationx.net/)
 - Delivered several talks and seminars at security meetups, schools, colleges, and conferences
 - Actively contributing to the cybersecurity community
 
-### :books: I’m currently learning ...
+## :books: I’m currently learning ...
 - NLP
 - SIEM
 - Network Threat Hunting
 - OSINT
 
-### :speech_balloon: Ask me about ...
+## :speech_balloon: Ask me about ...
 - Spiders/Scraping
 - Darknet/Darkweb
 - Threat Intel
