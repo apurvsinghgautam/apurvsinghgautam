@@ -27,6 +27,6 @@
 
 [![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## For more in detail information visit my [Portfolio](https://apurvsinghgautam.me/)
