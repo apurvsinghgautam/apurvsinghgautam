@@ -4,7 +4,7 @@
 
 ## :man: A little about me ...
 
-- Working on Threat Intelligence/Hunting on darknet
+- Working on Threat Intelligence/Hunting on surface/darkweb
 - Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
 - Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
 - Volunteering as a Teaching Assistant at [StationX](https://www.stationx.net/)
