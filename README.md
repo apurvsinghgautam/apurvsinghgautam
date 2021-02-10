@@ -12,6 +12,7 @@
 - Actively contributing to the cybersecurity community
 
 ## :books: I’m currently learning ...
+- Malware Analysis
 - NLP
 - SIEM
 - Network Threat Hunting
