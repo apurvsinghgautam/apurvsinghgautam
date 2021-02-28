@@ -7,7 +7,7 @@
 - Working on Threat Intelligence/Hunting on surface/darkweb
 - Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
 - Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
-- Volunteerign as a Darknet Reseacher at [EBCS, GSU](https://ebcs.gsu.edu/)
+- Volunteerign as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
 - Volunteering as a Teaching Assistant at [StationX](https://www.stationx.net/)
 - Delivered several talks and seminars at security meetups, schools, colleges, and conferences
 - Actively contributing to the cybersecurity community
