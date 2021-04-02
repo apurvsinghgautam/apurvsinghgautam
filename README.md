@@ -15,7 +15,7 @@
 
 - [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://www.youtube.com/channel/UCCtOSdF1YCUeh_lsbPWIQoQ/videos)
 
-- [SANS Cyber Defense Forum - 'Automating Threat Hunting on the Dark Web and other Nitty-Gritty things'](https://youtu.be/LywwMq--VS0)
+- [SANS Cyber Defense Forum 2020 - 'Automating Threat Hunting on the Dark Web and other Nitty-Gritty things'](https://youtu.be/LywwMq--VS0)
 
 ## :speech_balloon: Ask me about ...
 - OSINT
@@ -29,11 +29,11 @@
 - Malware Analysis
 - Threat Hunting
 
+## 📫 How to reach me:
+For more detailed information, visit my [Portfolio](https://apurvsinghgautam.me/) or [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n)
 
 [![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📫 How to reach me:
-For more detailed information, visit my [Portfolio](https://apurvsinghgautam.me/) or [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n)
 
