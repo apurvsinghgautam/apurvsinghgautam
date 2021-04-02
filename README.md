@@ -30,7 +30,7 @@
 - Threat Hunting
 
 ## 📫 How to reach me:
-Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or For more detailed information, visit my [Portfolio](https://apurvsinghgautam.me/)
+Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit my [Portfolio](https://apurvsinghgautam.me/)
 
 [![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
