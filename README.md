@@ -4,10 +4,10 @@
 
 ## :man: A little about me ...
 
-- Security Researcher working in Threat Intelligence focussing on surface/darkweb
+- Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on d2web
 - Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
 - Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
-- Volunteerign as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
+- Volunteering as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
 - Volunteering as a Teaching Assistant at [StationX](https://www.stationx.net/)
 - Actively contributing to the cybersecurity community
 
@@ -26,8 +26,8 @@
 - Spiders/Scraping
 
 ## :books: I’m currently learning ...
-- Malware Analysis
 - Threat Hunting
+- Malware Analysis
 
 ## 📫 How to reach me:
 Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit my [Portfolio](https://apurvsinghgautam.me/)
