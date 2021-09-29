@@ -4,16 +4,18 @@
 
 ## :man: A little about me ...
 
-- Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on d2web
-- Pursuing [Master's in Cybersecurity](https://cyber.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
+- Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on the surface, deep, and dark web
 - Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
 - Volunteering as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
 - Volunteering as a Teaching Assistant at [StationX](https://www.stationx.net/)
+- Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
 ## 🎙 Talks:
 
-- [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://www.youtube.com/channel/UCCtOSdF1YCUeh_lsbPWIQoQ/videos)
+- [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://youtu.be/D3V6uV4Iu0c)
+
+- [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://youtu.be/ywUxkvCK96w)
 
 - [SANS Cyber Defense Forum 2020 - 'Automating Threat Hunting on the Dark Web and other Nitty-Gritty things'](https://youtu.be/LywwMq--VS0)
 
