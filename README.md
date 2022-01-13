@@ -13,7 +13,7 @@
 
 ## 🎙 Panels:
 
-- [SANS New to Cyber Summit 2021 - 'Hack Your Growth - #LEVELUP'](https://youtu.be/ywUxkvCK96w)
+- [SANS New to Cyber Summit 2021 - 'Hack Your Growth - #LEVELUP'](https://youtu.be/D3V6uV4Iu0c)
 
 ## 🎙 Talks:
 
