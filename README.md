@@ -5,9 +5,8 @@
 ## :man: A little about me ...
 
 - Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on the surface, deep, and dark web
-- Volunteering as a Darknet Researcher at [CTI league](https://cti-league.com/)
+- Teaching Assistant at [StationX](https://www.stationx.net/)
 - Volunteering as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
-- Volunteering as a Teaching Assistant at [StationX](https://www.stationx.net/)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
