@@ -11,9 +11,11 @@
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
-## 🎙 Talks:
+## 🎙 Panels:
 
-- [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://youtu.be/D3V6uV4Iu0c)
+- [SANS New to Cyber Summit 2021 - 'Hack Your Growth - #LEVELUP'](https://youtu.be/ywUxkvCK96w)
+
+## 🎙 Talks:
 
 - [SANS Open-Source Intelligence Summit 2021 - 'OSINT Tools for Diving Deep Into The Dark Web'](https://youtu.be/ywUxkvCK96w)
 
