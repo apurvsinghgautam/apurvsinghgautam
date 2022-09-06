@@ -6,7 +6,6 @@
 
 - Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on the surface, deep, and dark web
 - Teaching Assistant at [StationX](https://www.stationx.net/)
-- Volunteering as a Darknet Reseacher at [EBCS Group](https://ebcs.gsu.edu/)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
