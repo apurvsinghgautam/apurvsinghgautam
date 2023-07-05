@@ -39,6 +39,6 @@ Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit m
 [![Star History Chart](https://api.star-history.com/svg?repos=apurvsinghgautam/dark-web-osint-tools,apurvsinghgautam/conference-talks,apurvsinghgautam/HTTP-Reverse-Shell&type=Date)](https://star-history.com/#apurvsinghgautam/dark-web-osint-tools&apurvsinghgautam/conference-talks&apurvsinghgautam/HTTP-Reverse-Shell&Date)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark&title=Followers,Stars,PullRequest,Repositories,MultiLanguage,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
 
