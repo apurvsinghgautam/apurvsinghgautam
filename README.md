@@ -4,7 +4,7 @@
 
 ## :man: A little about me ...
 
-- Threat Researcher at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on the surface, deep, and dark web
+- Sr. Threat Research Analyst at [Cyble](https://www.cyble.com) working in Threat Intelligence focussing on the surface, deep, and dark web
 - Teaching Assistant at [StationX](https://www.stationx.net/)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
