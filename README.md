@@ -36,9 +36,8 @@ Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit m
 
 [![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&include_all_commits=true&hide=issues&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=apurvsinghgautam/dark-web-osint-tools,apurvsinghgautam/conference-talks,apurvsinghgautam/HTTP-Reverse-Shell&type=Date)](https://star-history.com/#apurvsinghgautam/dark-web-osint-tools&apurvsinghgautam/conference-talks&apurvsinghgautam/HTTP-Reverse-Shell&Date)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark&title=Followers,Stars,PullRequest,Repositories,MultiLanguage,Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=apurvsinghgautam/dark-web-osint-tools,apurvsinghgautam/conference-talks,apurvsinghgautam/HTTP-Reverse-Shell&type=Date)](https://star-history.com/#apurvsinghgautam/dark-web-osint-tools&apurvsinghgautam/conference-talks&apurvsinghgautam/HTTP-Reverse-Shell&Date)
 
 
