@@ -9,6 +9,10 @@
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
+## 🎙 Podcasts:
+
+- [Singh in USA (Harnoor Singh) Youtube - Meet Cyber Security Engineers! Ft. Google & Cyble Engineers!!](https://youtu.be/DzyY4D27RnM)
+
 ## 🎙 Panels:
 
 - [SANS New to Cyber Summit 2021 - 'Hack Your Growth - #LEVELUP'](https://youtu.be/D3V6uV4Iu0c)
