@@ -11,6 +11,7 @@
 
 ## 🎙 Podcasts:
 
+- [ITSPMagazine 2024 - Georgia Tech Unveiled: Tales of Admission Triumphs | Conversations with a Current Student & an Alum | Off the Record with Saman — Student Abroad Podcast](https://itspmagazine.simplecast.com/episodes/georgia-tech-unveiled-tales-of-admission-triumphs-conversations-with-a-current-student-an-alum-off-the-record-with-saman-student-abroad-podcast2)
 - [Singh in USA (Harnoor Singh) Youtube 2021 - 'Meet Cyber Security Engineers! Ft. Google & Cyble Engineers!!'](https://youtu.be/DzyY4D27RnM)
 
 ## 🎙 Panels:
