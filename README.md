@@ -11,7 +11,7 @@
 
 ## 🎙 Podcasts:
 
-- [Singh in USA (Harnoor Singh) Youtube 2025 - 'The Dark Truth About Cybersecurity in 2025! (Ft. AI Threat Intel Expert)'](https://youtu.be/DzyY4D27RnM](https://youtu.be/JYe2xSRWnRM))
+- [Singh in USA (Harnoor Singh) Youtube 2025 - 'The Dark Truth About Cybersecurity in 2025! (Ft. AI Threat Intel Expert)'](https://youtu.be/JYe2xSRWnRM)
 - [ITSPMagazine 2024 - Georgia Tech Unveiled: Tales of Admission Triumphs | Conversations with a Current Student & an Alum | Off the Record with Saman — Student Abroad Podcast](https://itspmagazine.simplecast.com/episodes/georgia-tech-unveiled-tales-of-admission-triumphs-conversations-with-a-current-student-an-alum-off-the-record-with-saman-student-abroad-podcast2)
 - [Tech Talks with Singh - 'The Recession Proof Tech Job in 2024 - Meet CyberSecurity Hacker!'](https://podcasts.apple.com/us/podcast/the-recession-proof-tech-job-in-2024-meet/id1743902198?i=1000654013421)
 - [Singh in USA (Harnoor Singh) Youtube 2021 - 'Meet Cyber Security Engineers! Ft. Google & Cyble Engineers!!'](https://youtu.be/DzyY4D27RnM)
