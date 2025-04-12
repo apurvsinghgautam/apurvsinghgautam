@@ -26,18 +26,6 @@
 
 - [SANS Cyber Defense Forum 2020 - 'Automating Threat Hunting on the Dark Web and other Nitty-Gritty things'](https://youtu.be/LywwMq--VS0)
 
-## :speech_balloon: Ask me about ...
-- OSINT
-- HUMINT
-- Threat Intel
-- Elastic Stack
-- Darknet/Darkweb
-- Spiders/Scraping
-
-## :books: I’m currently learning ...
-- Threat Hunting
-- Malware Analysis
-
 ## 📫 How to reach me:
 Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit my [website](https://apurvsinghgautam.me/)
 
