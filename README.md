@@ -31,5 +31,3 @@ Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit m
 
 [![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&hide=issues,contribs&include_all_commits=true&show_icons=true&custom_title=ASG%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apurvsinghgautam&theme=onedark&title=Followers,Stars,PullRequest,Repositories,MultiLanguage,Commits)](https://github.com/ryo-ma/github-profile-trophy)
-
