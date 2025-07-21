@@ -28,6 +28,3 @@
 
 ## 📫 How to reach me:
 Reach me [@ASG_Sc0rpi0n on Twitter](https://twitter.com/ASG_Sc0rpi0n) or visit my [website](https://apurvsinghgautam.me/)
-
-[![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=apurvsinghgautam&count_private=true&hide=issues,contribs&include_all_commits=true&show_icons=true&custom_title=ASG%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
