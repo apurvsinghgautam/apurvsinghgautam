@@ -5,7 +5,7 @@
 ## :man: A little about me ...
 
 - Sr. Threat Research Analyst at [Cyble](https://www.cyble.com) working in CTI focussing on cybercrime intelligence
-- Teaching Assistant at [StationX](https://www.stationx.net/)
+- Member at [CuratedIntel](https://x.com/CuratedIntel)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
 
