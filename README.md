@@ -11,6 +11,7 @@
 
 ## 🎙 Podcasts:
 
+- [NetworkChuck Youtube 2025 - 'Dark Web Expert gave me his AI Tool'](https://youtu.be/_KzObeom88Y)
 - [Singh in USA (Harnoor Singh) Youtube 2025 - 'Meet AI for Security Engineer! (Future in 2025)'](https://youtu.be/JYe2xSRWnRM)
 - [ITSPMagazine 2024 - Georgia Tech Unveiled: Tales of Admission Triumphs | Conversations with a Current Student & an Alum | Off the Record with Saman — Student Abroad Podcast](https://itspmagazine.simplecast.com/episodes/georgia-tech-unveiled-tales-of-admission-triumphs-conversations-with-a-current-student-an-alum-off-the-record-with-saman-student-abroad-podcast2)
 - [Tech Talks with Singh - 'The Recession Proof Tech Job in 2024 - Meet CyberSecurity Hacker!'](https://podcasts.apple.com/us/podcast/the-recession-proof-tech-job-in-2024-meet/id1743902198?i=1000654013421)
