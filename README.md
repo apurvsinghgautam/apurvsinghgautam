@@ -12,7 +12,7 @@
 ## 🎙 Podcasts:
 
 - [NetworkChuck (2025) - 'Dark Web Expert Explains How He Infiltrates Cybercrime Forums'](https://youtu.be/KxfAW8wPDX4)
-- [NetworkChuck (2025) - 'Dark Web Expert gave me his AI Tool'](https://youtu.be/_KzObeom88Y)
+- [NetworkChuck (2025) - 'The Dark Web EXPOSED (FREE + Open-Source Tool)'](https://youtu.be/_KzObeom88Y)
 - [Singh in USA (2025) - 'Meet AI for Security Engineer! (Future in 2025)'](https://youtu.be/JYe2xSRWnRM)
 - [ITSPMagazine (2024) - Georgia Tech Unveiled: Tales of Admission Triumphs | Conversations with a Current Student & an Alum | Off the Record with Saman — Student Abroad Podcast](https://itspmagazine.simplecast.com/episodes/georgia-tech-unveiled-tales-of-admission-triumphs-conversations-with-a-current-student-an-alum-off-the-record-with-saman-student-abroad-podcast2)
 - [Tech Talks with Singh (2024) - 'The Recession Proof Tech Job in 2024 - Meet CyberSecurity Hacker!'](https://podcasts.apple.com/us/podcast/the-recession-proof-tech-job-in-2024-meet/id1743902198?i=1000654013421)
