@@ -4,7 +4,7 @@
 
 ## :man: A little about me ...
 
-- CTI Researcher focusing on cybercrime intelligence
+- Security Analyst, Anti-Scraping Investigations at Meta
 - Member at [Curated Intelligence](https://x.com/CuratedIntel)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
