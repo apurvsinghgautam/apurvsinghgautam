@@ -4,7 +4,7 @@
 
 ## :man: A little about me ...
 
-- Security Analyst, Anti-Scraping Investigations at Meta
+- Lead, Research & Threat Intelligence at Cyble
 - Member at [Curated Intelligence](https://x.com/CuratedIntel)
 - Graduated from [Georgia Tech](https://www.gatech.edu/) with a [Master's in Cybersecurity](https://cyber.gatech.edu/)
 - Actively contributing to the cybersecurity community
